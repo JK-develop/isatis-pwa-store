@@ -1,0 +1,24 @@
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Sensitive files
+db_connection.php
+database.sql
+
+# Composer dependencies
+/vendor/
+
+# Log files
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
